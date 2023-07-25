@@ -34,7 +34,7 @@
   url-prefix: pinterest.com/
 
 - name: linkedin
-  url-prefix: linkedin.com/in/
+  url-prefix: linkedin.com/in/rebecca-truong/
 
 - name: youtube
   url-prefix: youtube.com/
@@ -46,7 +46,7 @@
   url-prefix: last.fm/user/
 
 - name: github
-  url-prefix: github.com/
+  url-prefix: github.com/rebeccatruong7
 
 - name: keybase
   url-prefix: keybase.io/
@@ -97,5 +97,5 @@
   url-prefix: speakerdeck.com/
 
 - name: email
-  url-scheme: 'mailto:'
+  url-scheme: 'mailto:rebeccatruong7@gmail.com'
   icon: mail
