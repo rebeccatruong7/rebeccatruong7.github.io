@@ -14,7 +14,8 @@ pandas, numpy, regex, matplotlib, seaborn
 Pivot Tables, XLOOKUP, charting
 
 # Projects
-Hong Kong is Seeing Only Half of International Visitors
-insert image 
-medium link
-code link
+Hong Kong is Seeing Only Half of International Visitors   
+insert image    
+medium link   
+code link   
+ 
