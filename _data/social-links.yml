@@ -25,10 +25,6 @@
 - name: github
   url-prefix: github.com/rebeccatruong7
 
-- name: keybase
-  url-prefix: keybase.io/
-  icon: key
-
 - name: medium
   url-prefix: medium.com/@rebecca.truong
 
