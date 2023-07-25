@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Rebecca Truong
-logo: images/turtlesketch2.png
+logo: assets/img/turtlesketch2.png
 description: Illustrated by me. Original photo by David Troeger | <a href="http://testing.test123.org/xx3/landing.gsp">Unsplash</a>
 show_downloads: False
 social-links-order:[github, medium, linkedin, email]
