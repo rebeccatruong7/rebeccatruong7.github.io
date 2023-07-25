@@ -11,6 +11,7 @@ I typically use Python and Microsoft Excel for data analysis and visualization. 
 **Python**: pandas, numpy, regex, matplotlib, seaborn   
 **Microsoft Excel**: Pivot Tables, XLOOKUP, charting
 
+
 # Projects
 ### Hong Kong is Seeing Only Half of International Visitors
 I published an article detailing how Hong Kong's air traffic as changed in recent years and the potential reasons behind the change.   
