@@ -12,8 +12,9 @@ I typically use Python and Microsoft Excel for data analysis and visualization. 
 **Microsoft Excel**: Pivot Tables, XLOOKUP, charting
 
 # Projects
-Hong Kong is Seeing Only Half of International Visitors
+## Hong Kong is Seeing Only Half of International Visitors
+I published an article detailing how Hong Kong's air traffic as changed in recent years and the potential reasons behind the change.   
+- [Code-walkthrough](githublink)
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
-medium link   
-code link   
+
  
