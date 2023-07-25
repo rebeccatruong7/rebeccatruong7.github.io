@@ -8,10 +8,8 @@ I enjoy meeting new people, so feel more than welcome to email me at rebeccatron
 # Skills
 I typically use Python and Microsoft Excel for data analysis and visualization. I have played with SQL, R, and Tableau in the past so I can pick these up if a project calls for it. 
 
-**Python**    
-pandas, numpy, regex, matplotlib, seaborn   
-**Microsoft Excel**   
-Pivot Tables, XLOOKUP, charting
+**Python**    pandas, numpy, regex, matplotlib, seaborn   
+**Microsoft Excel**   Pivot Tables, XLOOKUP, charting
 
 # Projects
 Hong Kong is Seeing Only Half of International Visitors   
