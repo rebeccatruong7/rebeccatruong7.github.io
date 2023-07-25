@@ -13,7 +13,7 @@ I typically use Python and Microsoft Excel for data analysis and visualization. 
 
 # Projects
 Hong Kong is Seeing Only Half of International Visitors
-[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail.png)](https://medium.com/@rebecca.truong)
+[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
 medium link   
 code link   
  
