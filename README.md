@@ -6,7 +6,7 @@ I enjoy understanding people and their perspectives. I graduated with a B.A. in 
 I enjoy meeting new people, so feel more than welcome to email me at rebeccatrong7{at}gmail{dot}com. 
 
 # Skills
-I typically use Python and Microsoft for data analysis and visualization. I have played with SQL, R, and Tableau in the past so I can pick these up if a project calls for it. 
+I typically use Python and Microsoft Excel for data analysis and visualization. I have played with SQL, R, and Tableau in the past so I can pick these up if a project calls for it. 
 
 **Python**    
 pandas, numpy, regex, matplotlib, seaborn   
@@ -14,4 +14,7 @@ pandas, numpy, regex, matplotlib, seaborn
 Pivot Tables, XLOOKUP, charting
 
 # Projects
-Hong Kong is Seeing Only Half of International Visitors 
+Hong Kong is Seeing Only Half of International Visitors
+insert image 
+medium link
+code link
