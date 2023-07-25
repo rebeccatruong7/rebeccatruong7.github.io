@@ -1,9 +1,9 @@
 # About Me
-I currently analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). I graduated with a B.A. in Psychological Science and minor in International Studies from the University of California, Irvine. 
+I currently analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). 
 
-I enjoy understanding people and their perspectives. Hopefully, I can do some good for the world through data-informed research. In my free time, I practice karate (Shito-Ryu Style), study Chinese (Cantonese & Mandarin), and lie around in parks.
+I enjoy understanding people and their perspectives. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. I hope to do some good for the world through data-informed research. Currently, I am very into discussing [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/).
 
-I enjoy meeting new people, so please feel more than welcome to email me at rebeccatrong7{at}gmail{dot}com.
+I enjoy meeting new people, so feel more than welcome to email me at rebeccatrong7{at}gmail{dot}com! 
 
 # Skills
 I am most comfortable using Python, Microsoft Excel, and Google Sheets for data analysis and visualization. I have played with SQL, R, and Tableau in the past so I can pick these up if a project calls for it. 
