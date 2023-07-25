@@ -3,4 +3,5 @@ title: Rebecca Truong
 logo: assets/img/turtlesketch2.png
 description: Illustrated by me. Original photo by David Troeger | <a href="http://testing.test123.org/xx3/landing.gsp">Unsplash</a>
 show_downloads: True
+is_user_page: False
 social-links-order:[github, medium, linkedin, email]
