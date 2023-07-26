@@ -13,11 +13,12 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 
 # Projects
+[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small2.png)](https://medium.com/@rebecca.truong)
 ### Hong Kong is Only Seeing Half of International Visitors
 I published an article detailing how Hong Kong's air traffic as changed in recent years and the potential reasons behind the change.   
 - [Article](mediumlink)
 - [Code-walkthrough](githublink)
 
-[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small2.png)](https://medium.com/@rebecca.truong)
+
 
  
