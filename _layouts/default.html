@@ -27,20 +27,20 @@
       <header>
         <h1><a 
               href="{{ "/" | absolute_url }}" 
-              style="font:'Noto Serif' 50px; 
+              style="font:50px 'Noto Serif'; 
               font-weight:700; 
               line-height:0.95; 
               color:#0070E0;
-              margin:0px;"
+              margin:0;"
             >{{ site.title | default: site.github.repository_name }}</a></h1>
         
-        <p style="margin:0px; font-size:25px; color:#0070E0;">my website</p>
+        <p style="margin:0; font-size:20px; color:#0070E0;">my website</p>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p style="margin:10px 0px 10px;">{{ site.description | default: site.github.project_tagline }} </p>
+        <p style="margin:10px 0 10px;">{{ site.description | default: site.github.project_tagline }} </p>
 
         <a href="https://github.com/rebeccatruong7" target="_blank">
             <img src="assets/img/github-alt.svg" alt="github" width="30" height="30">
