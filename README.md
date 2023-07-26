@@ -1,15 +1,15 @@
 # About Me
 I currently analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). 
 
-I hope to do some good for the world through data-informed research. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. At the moment, my current interests revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/).
+I'd like to research and analyze data to hopefully do some good. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/).
 
 I enjoy meeting new people, so feel more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
 
 # Skills
-I typically use Python and Microsoft Excel for data analysis and visualization. I have played with SQL, R, and Tableau in the past so I can pick these up if a project calls for it. 
+For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. I'm learning more as I go!
 
-*Python*: pandas, numpy, regex, matplotlib, seaborn   
-*Microsoft Excel*: Pivot Tables, XLOOKUP, charting
+**Python**: pandas, numpy, regex, matplotlib, seaborn   
+**Microsoft Excel**: Pivot Tables, XLOOKUP, charting
 
 
 # Projects
