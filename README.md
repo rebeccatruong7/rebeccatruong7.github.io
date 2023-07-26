@@ -3,7 +3,7 @@ I currently research and analyze data @[Mental Health Association of San Francis
 
 I'd like to do some good for the world through data-informed research. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/).
 
-I enjoy meeting new people, so you are more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
+I enjoy meeting new people, so feel more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
 
 # Skills
 For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. I'm learning more as I go.
