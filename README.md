@@ -6,7 +6,7 @@ I'd like to do some good for the world through data-informed research. I graduat
 I enjoy meeting new people, so feel more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
 
 # Skills
-For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. I'm learning more as I go.
+For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. However, I'm constantly adding to this skillset!
 
 **Python**: pandas, numpy, regex, matplotlib, seaborn   
 **Microsoft Excel**: Pivot Tables, XLOOKUP, charting
