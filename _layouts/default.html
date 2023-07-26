@@ -36,7 +36,7 @@
               margin:0;"
             >{{ site.title | default: site.github.repository_name }}</a></h1>
         
-        <p style="margin:0 0 15px; font-size:20px; color:#0070E0; line-height:1em; border-top-width:0;">my website</p>
+        <p style="margin:0 0 15px; font-size:20px; color:#0070E0; line-height:1em; border-top-width:0; padding:0;">my website</p>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -44,7 +44,7 @@
 
         <p style="margin:10px 0 10px;">{{ site.description | default: site.github.project_tagline }} </p>
 
-        <a href="https://github.com/rebeccatruong7" target="_blank" style="padding-left:5px; padding-right:5px;">
+        <a href="https://github.com/rebeccatruong7" target="_blank" style="padding-right:5px;">
             <img src="assets/img/github-alt.svg" alt="github" width="30" height="30">
         </a>
         <a href="https://www.linkedin.com/in/rebecca-truong/" target="_blank"style="padding-left:5px; padding-right:5px;">
