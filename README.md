@@ -1,5 +1,5 @@
 # About Me
-I currently research and analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). 
+I currently research and analyze data @[Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). 
 
 I'd like to research and analyze data to hopefully do some good. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/).
 
