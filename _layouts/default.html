@@ -27,14 +27,15 @@
       <header>
         <h1><a 
               href="{{ "/" | absolute_url }}" 
-              style="font:50px 'Noto Serif'; 
+              style="font:'Noto Serif'; 
+              font-size:50px;
               font-weight:700; 
-              line-height:1; 
+              line-height:0.95; 
               color:#0070E0;
-              padding:0px;"
+              margin:0px;"
             >{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p style="margin:0px; font:20px; color:#0070E0;">my website</p>
+        <p style="margin:0px; font-size:30px; color:#0070E0;">my website</p>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
