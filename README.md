@@ -18,7 +18,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 # Projects
 **still working on this section*
-[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail.png)](https://medium.com/@rebecca.truong)
+[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
 ## Government Policies Have Dimmed the Pearl of the East   
 ### *After a costly pandemic, air travel to Hong Kong has halved.*
 I published an article detailing how Hong Kong's air traffic has changed in recent years and the potential reasons behind the change.   
