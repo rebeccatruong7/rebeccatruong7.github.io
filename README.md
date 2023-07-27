@@ -9,7 +9,8 @@ I enjoy meeting new people, so feel more than welcome to email me at [rebeccatru
 For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. However, I'm constantly adding to my skillset!
 
 **Python**: pandas, numpy, regex, matplotlib, seaborn   
-**Microsoft Excel**: Pivot Tables, XLOOKUP, charting
+**Microsoft Excel**: Pivot tables, XLOOKUP, Charting
+**Soft Skills**: Interpreting past & present events to draw a narrative (Historical Research), Writing in layman's terms, and Sighing at the rabbit hole I've dived into
 
 ---
 
