@@ -12,10 +12,10 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 **Python Libraries**: pandas, numpy, regex, matplotlib, seaborn   
 **Microsoft Excel Tools**: Pivot tables, XLOOKUP, Charting   
-**Soft Skills**: 
-- Interpreting past & present events to understand context (Historical Research)
-- Writing to an uninformed audience
-- Sighing at the ~~grave~~ rabbit hole I've dug myself
+**Soft Skills**:   
+   Interpreting past & present events to understand context (Historical Research)   
+   Writing to an uninformed audience   
+   Sighing at the ~~grave~~ rabbit hole I've dug myself   
 
 ---
 
