@@ -10,8 +10,8 @@ I enjoy meeting new people, so feel more than welcome to email me at [rebeccatru
 # Skills
 For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. However, I'm constantly adding to my skillset!
 
-**Python** Libraries: pandas, numpy, regex, matplotlib, seaborn   
-**Microsoft Excel** Tools: Pivot tables, XLOOKUP, Charting   
+**Python Libraries**: pandas, numpy, regex, matplotlib, seaborn   
+**Microsoft Excel Tools**: Pivot tables, XLOOKUP, Charting   
 **Soft Skills**: 
 - Interpreting past & present events to understand context (Historical Research)
 - Writing to an uninformed audience
@@ -20,7 +20,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 ---
 
 # Projects
-**still working on this section*
+**still working on this section so links may not work yet*
 ## Data Journalism 
 ### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong): *After a costly pandemic, air travel to Hong Kong has halved.*
 In this article, I explain how air travel to Hong Kong has changed and explain the socio-political reasons behind the change. This was a beginning-to-end project from finding the datasets, identifying my research question, cleaning the data, analyzing and visualizing the data, and then communicating its findings to an audience. [Article](https://medium.com/@rebecca.truong) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)  
