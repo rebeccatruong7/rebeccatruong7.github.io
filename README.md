@@ -21,10 +21,12 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 # Projects
 **still working on this section*
+## Data Journalism 
+Beginning to end project from finding datasets, cleaning the data, analyzing and visualizing the data, and communicating its findings to an audience.
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
-## [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong)   
+### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong)   
 ### *After a costly pandemic, air travel to Hong Kong has halved.*
-I published an article detailing how Hong Kong's air traffic has changed recently and the socio-political reasons behind the change.   
+I published an article detailing how Hong Kong's air traffic has changed recently and the socio-political reasons behind the change. I cleaned data   
 - [Article](https://medium.com/@rebecca.truong) & [Code-walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
 
