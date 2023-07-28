@@ -21,10 +21,18 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
 ## Government Policies Have Dimmed the Pearl of the East   
 ### *After a costly pandemic, air travel to Hong Kong has halved.*
-I published an article detailing how Hong Kong's air traffic has changed in recent years and the potential reasons behind the change.   
+I published an article detailing how Hong Kong's air traffic has changed recently and the socio-political reasons behind the change.   
 - [Article](https://medium.com/@rebecca.truong)
 - [Code-walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)
 
+## SQL Query
+### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
+I cleaned a dataset containing information about housing units in Nashville, Tennesee. Columns include sale date, sale price, land value, and number of beds and baths. 
 
-
+## Tableau Dashboards
+### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+) 
+I built a dashboard that took in cities and names to output an equidistant location.
+### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
+The dashboard dsiplays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
  
