@@ -30,7 +30,7 @@ I published an article detailing how Hong Kong's air traffic has changed recentl
 I cleaned a dataset containing information about housing units in Nashville, Tennesee. Columns include sale date, sale price, land value, and number of beds and baths. 
 
 ## Tableau Dashboards
-### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
+### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 ) 
 I built a dashboard that took in cities and names to output an equidistant location.
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
