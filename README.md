@@ -27,6 +27,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 I published an article detailing how Hong Kong's air traffic has changed recently and the socio-political reasons behind the change.   
 - [Article](https://medium.com/@rebecca.truong) & [Code-walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)
 
+
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
 I cleaned a dataset containing information about housing units in Nashville, Tennesee. Columns include sale date, sale price, land value, and number of beds and baths. 
