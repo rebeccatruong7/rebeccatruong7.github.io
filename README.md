@@ -20,7 +20,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 ---
 
 # Projects
-**still working on this section so links may not work yet*
+**still working on this section so links may not work yet*   
 Things I've been working on!
 ## Data Journalism 
 ### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong): *After a costly pandemic, air travel to Hong Kong has halved.*
