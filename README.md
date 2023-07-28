@@ -21,6 +21,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 # Projects
 **still working on this section so links may not work yet*
+Things I've been working on!
 ## Data Journalism 
 ### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong): *After a costly pandemic, air travel to Hong Kong has halved.*
 In this article, I explain how air travel to Hong Kong has changed and explain the socio-political reasons behind the change. This was a beginning-to-end project from finding the datasets, identifying my research question, cleaning the data, analyzing and visualizing the data, and then communicating its findings to an audience. [Article](https://medium.com/@rebecca.truong) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)  
