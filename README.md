@@ -9,7 +9,7 @@ I enjoy meeting new people, so feel more than welcome to email me at [rebeccatru
 
 # Skills
 For data analysis and visualization, I typically use Python and Microsoft Excel. If a project calls for it, I may use SQL, Tableau, and/or R. However, I'm constantly adding to my skillset!
-
+![pandas!](/assets/img/pandas.png) ![matplotlib!](/assets/img/matplotlib.png) ![seaborn!](/assets/img/seaborn.png)
 **Python Libraries**: pandas, numpy, regex, matplotlib, seaborn   
 **Microsoft Excel Tools**: Pivot tables, XLOOKUP, Charting   
 **Soft Skills**:   
