@@ -31,7 +31,6 @@ I cleaned a dataset containing information about housing units in Nashville, Ten
 
 ## Tableau Dashboards
 ### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
-) 
 I built a dashboard that took in cities and names to output an equidistant location.
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
 The dashboard dsiplays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
