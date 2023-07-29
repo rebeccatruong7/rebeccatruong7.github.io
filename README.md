@@ -15,8 +15,7 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 <img src="/assets/img/matplotlib.png" width="30" height="30">&nbsp;&nbsp;
 <img src="/assets/img/seaborn.png" width="30" height="30">   
 
-**Python Libraries**: pandas, numpy, regex, matplotlib, seaborn   
-**Microsoft Excel Tools**: Pivot tables, XLOOKUP, Charting   
+**Python Libraries**: pandas, numpy, regex, matplotlib, seaborn     
 **Soft Skills**:   
    Interpreting past & present events to understand context (Historical Research)   
    Writing to an uninformed audience   
@@ -28,11 +27,11 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 **still working on this section so links may not work yet*   
 Things I've been working on!
 ## Data Journalism 
-### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebecca.truong): *After a costly pandemic, air travel to Hong Kong has halved.*
+### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebeccatruong7): *After a costly pandemic, air travel to Hong Kong has halved.*
 In this article, I explain how air travel to Hong Kong has changed and explain the socio-political reasons behind the change. This was a beginning-to-end project from finding the datasets, identifying my research question, cleaning the data, analyzing and visualizing the data, and then communicating its findings to an audience.   
-[Article](https://medium.com/@rebecca.truong) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
+[Article](https://medium.com/@rebeccatruong7) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
-[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebecca.truong)
+[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7)
    
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
@@ -42,5 +41,5 @@ I cleaned a dataset containing information about housing units in Nashville, Ten
 ### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 The dashboard takes in cities and names to output an equidistant location based on the individuals selected. 
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
-The dashboard dsiplays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
+The dashboard displays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
  
