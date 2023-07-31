@@ -30,7 +30,7 @@ Things I've been working on!
 
 ## Data Journalism 
 ### [Government Policies Have Dimmed the Pearl of the East:   *After a costly pandemic, air travel to Hong Kong has halved.*](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
-I explored the passenger data for several international airports to understand how air travel to Hong Kong has changed and the potential sociopolitical reasons behind the change. 
+I explored the passenger data for several international airports to understand how air travel to Hong Kong has changed and the potential sociopolitical reasons behind the change.    
 [Article](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
