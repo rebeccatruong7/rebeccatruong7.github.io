@@ -40,8 +40,6 @@ I explored the passenger data for several international airports to understand h
 I cleaned a dataset containing information about housing units in Nashville, Tennesee. Columns include sale date, sale price, land value, and number of beds and baths. 
 
 ## Tableau Dashboards
-### [Determine Equidistant Meeting Location](https://public.tableau.com/views/NextAlumniMeeting/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
-The dashboard takes in cities and names to output an equidistant location based on the individuals selected. 
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
 The dashboard displays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
  
