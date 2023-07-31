@@ -1,7 +1,7 @@
 # About Me
 I currently research and analyze data @[Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). 
 
-I'd like to do some good for the world through data-informed research. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/). For fun, I enjoy spending time in nature and practicing my Chinese. 
+I'd like to do some good for the world through data-informed research. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.italki.com), and [social mobility](https://opportunityinsights.org/). For fun, I enjoy spending time in nature and practicing my Chinese! 
 
 I enjoy meeting new people, so feel more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
 
@@ -23,15 +23,15 @@ For data analysis and visualization, I typically use Python and Microsoft Excel.
 
 ---
 
-# Projects
-**still working on this section so links may not work yet*   
+# Projects 
 Things I've been working on!
-## Data Journalism 
-### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebeccatruong7): *After a costly pandemic, air travel to Hong Kong has halved.*
-I explored the passenger data for several international airports to understand how air travel to Hong Kong has changed and the potential sociopolitical reasons behind the change. This was a beginning-to-end project from finding the datasets, identifying my research question, cleaning the data, analyzing and visualizing the data, and then communicating its findings to an audience.   
-[Article](https://medium.com/@rebeccatruong7) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
-[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7)
+## Data Journalism 
+### [Government Policies Have Dimmed the Pearl of the East](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536): *After a costly pandemic, air travel to Hong Kong has halved.*
+I explored the passenger data for several international airports to understand how air travel to Hong Kong has changed and the potential sociopolitical reasons behind the change. This was a beginning-to-end project from finding the datasets, identifying my research question, cleaning the data, analyzing and visualizing the data, and then communicating its findings to an audience.   
+[Article](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
+
+[![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
    
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
