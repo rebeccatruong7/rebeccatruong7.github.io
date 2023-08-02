@@ -26,7 +26,6 @@ For data analysis and visualization, I typically use **Python** and **Microsoft 
 ---
 
 # Projects 
-Things I've been working on!
 
 ## Data Journalism 
 ### [Government Policies Have Dimmed the Pearl of the East:   *After a costly pandemic, air travel to Hong Kong has halved.*](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
