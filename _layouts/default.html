@@ -41,6 +41,14 @@
         <p style="margin:0 0 15px; font-size:20px; line-height:1em; border-top-width:0; padding:0;">{{ site.description | default: site.github.project_tagline }} </p>
 <!-- color:#0070E0;  -->
         
+
+
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="margin:0; padding:20px 0 0 0;"/>
+        {% endif %}
+
+        
         <a href="https://github.com/rebeccatruong7" target="_blank" style="padding-right:5px;">
                     <img src="assets/img/github-alt.svg" alt="github" width="30" height="30">
                 </a>
@@ -54,10 +62,6 @@
                  <img src="assets/img/envelope-regular.svg" alt="email" width="30" height="30" style="padding-left:5px; padding-right:5px;"> -->
 
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="margin:0; padding:20px 0 0 0;"/>
-        {% endif %}
- 
         
 <!--         <p style="margin:0 0 0; font-size:12px">Illustration by me.</p>
       
