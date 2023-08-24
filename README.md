@@ -29,7 +29,7 @@ For data analysis and visualization, I typically use **Python** and **Microsoft 
 
 ## Python Analysis 
 ### [Government Policies Have Dimmed the Pearl of the East:   *After a costly pandemic, air travel to Hong Kong has halved.*](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
-Within the past few years, Hong Kong faced great political turmoil and strict travel procedures that have led residents and companies to flee the city, also known as the Pearl of the East. I aggregated, cleaned, and combined the data from 10+ public data sources to quantify the change in Hong Kong air travel. I published my extensive research, analysis, and data visualizations in a comprehensive Medium article.
+Within the past few years, Hong Kong has faced great political turmoil and strict COVID response procedures, causing an irrevocable shift in culture, leading residents and companies to flee the city in droves. Using **Python** and **Jupyter Notebook**, I _aggregated_, _cleaned,_ and _analyzed_ the data from 10+ public data sources to _quantify_ the change in Hong Kong air travel. I published my extensive research, analysis, and data visualizations in a comprehensive Medium article.     
 [Article](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
