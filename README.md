@@ -29,18 +29,18 @@ For data analysis and visualization, I typically use **Python** and **Microsoft 
 
 ## Python Analysis 
 ### [Government Policies Have Dimmed the Pearl of the East:   *After a costly pandemic, air travel to Hong Kong has halved.*](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
-Within the past few years, Hong Kong has faced great political turmoil and strict COVID response procedures, causing an irrevocable shift in culture, leading residents and companies to flee the city in droves. Using **Python** and **Jupyter Notebook**, I **_aggregated_**, **_cleaned_**, and **_analyzed_** the data from 10+ public data sources to **_quantify_** the change in Hong Kong air travel. I published my extensive research, analysis, and data visualizations in a comprehensive Medium article.     
+Within the past few years, Hong Kong has faced great political turmoil and strict COVID response procedures, causing an irrevocable shift in culture, leading residents and companies to flee the city in droves. Using Python and Jupyter Notebook, I **_aggregated_**, **_cleaned_**, and **_analyzed_** the data from 10+ public data sources to **_quantify_** the change in Hong Kong air travel. I published my extensive **_research_**, **_analysis_**, and **_data visualizations_** in a comprehensive Medium article.     
 [Article](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536) | [Code-Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
 
 ## Tableau Dashboards
 ### [COVID-19 Vaccine Tracker](https://public.tableau.com/views/COVIDDashboard_16911063239220/GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link) 
-I created an interactive dashboard to **_visualize_** the proportion of people vaccinated globally (October 2021).
+I **_visualized_** the proportion of people vaccinated globally (October 2021) using Tableau and MS Excel.
 
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
 The dashboard displays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
  
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
-I cleaned a dataset containing information about housing units in Nashville, Tennesee. Columns include sale date, sale price, land value, and number of beds and baths. 
+Using SQL, I **_queried_** and **_cleaned_** a dataset containing information on the sale date, sale price, land value, and number of beds and baths for housing in Nashville, Tennessee.
