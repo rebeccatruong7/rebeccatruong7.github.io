@@ -39,7 +39,7 @@ Within the past few years, Hong Kong has faced great political turmoil and stric
 I **_visualized_** the proportion of people vaccinated globally (October 2021) using Tableau and MS Excel.
 
 ### [Seattle AirBnB Pricing](https://public.tableau.com/views/AirBnBFullProject_16555083090270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link ) 
-The dashboard displays the prices of AirBnBs in Seattle by a variety of variables including number of bedrooms, zip code, and time of year. 
+I **_visualized_** the prices of AirBnBs in Seattle in relation to a variety of variables including number of bedrooms, zip code, and time of year. 
  
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
