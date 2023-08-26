@@ -3,7 +3,7 @@ I currently analyze data @ [Mental Health Association of San Francisco](https://
 
 I'd like to do some good for the world through **data-informed research**. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*.   
 
-My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.scientificamerican.com/article/how-language-shapes-thought/), and [social mobility](https://opportunityinsights.org/). For fun, I enjoy spending time in nature and practicing my Chinese! 
+My current interests, at the moment, revolve around [accessible cities](https://www.youtube.com/c/NotJustBikes), [foreign languages](https://www.scientificamerican.com/article/how-language-shapes-thought/), and [social mobility](https://opportunityinsights.org/). In my free time, I practice karate with friends, chat with strangers in Chinese, and lie around in parks.  
 
 I enjoy meeting new people, so feel more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) . 
 
