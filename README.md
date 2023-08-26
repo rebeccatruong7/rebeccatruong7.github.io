@@ -3,7 +3,7 @@ I currently analyze data @ [Mental Health Association of San Francisco](https://
 
 I'd like to do some good for the world through **data-informed research**. I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*.   
 
-I talk a lot about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). In my free time, I practice karate with friends, chat with strangers in Chinese, and lie around in parks.  
+I can talk for a long time about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). In my free time, I practice karate with friends, chat with strangers in Chinese, and lie around in parks.  
 
 I enjoy meeting new people, so you are more than welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) and connect with me on [Linkedin](https://www.linkedin.com/in/rebeccatruong7/). 
 
