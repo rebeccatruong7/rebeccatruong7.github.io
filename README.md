@@ -8,7 +8,7 @@ I enjoy meeting new people, so feel free to contact me at [rebeccatruong7@gmail.
 ---
 
 # Skills
-For data analysis and visualization, I typically use **Python** and **Microsoft Excel**. If a project calls for it, I may use **SQL**, **Tableau**, and/or **R**. However, I'm constantly adding to my skillset!   
+For data analysis and visualization, I typically use **Python** and **Microsoft Excel**. If a project calls for it, I may use **SQL**, **Tableau**, and/or **R**. However, I'm constantly adding to my skillset.   
 
 <img src="/assets/img/python.png" width="30" height="30">&nbsp;&nbsp;
 <img src="/assets/img/pandas.png" width="20" height="30">&nbsp;&nbsp;
