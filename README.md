@@ -15,7 +15,7 @@ For data analysis and visualization, I typically use **Python** and **Microsoft 
 <img src="/assets/img/matplotlib.png" width="30" height="30">&nbsp;&nbsp;
 <img src="/assets/img/seaborn.png" width="30" height="30">   
 
-**Python Libraries**: pandas, numpy, regex, matplotlib, seaborn     
+**Python Libraries**: pandas, numpy, regex, matplotlib, seaborn, plotly     
 **Soft Skills**:   
    Interpreting past & present events to understand context (Historical Research)   
    Writing to an uninformed audience   
