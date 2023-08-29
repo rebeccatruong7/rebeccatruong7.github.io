@@ -32,7 +32,7 @@ In the past few years, Hong Kong has faced great political turmoil and strict CO
 
 [![Hong Kong Air Traffic Timeline!](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
 
-## Tableau Dashboards
+## Tableau Dashboard
 ### [COVID-19 Vaccine Tracker](https://public.tableau.com/views/COVIDDashboard_16911063239220/GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link) 
 I **_visualized_** the proportion of people vaccinated globally (October 2021) using Tableau and MS Excel.
 
