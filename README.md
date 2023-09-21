@@ -1,9 +1,9 @@
 # About Me
-Hello! I currently analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). I am looking for positions in which I can work on **data-informed research** for the common good. The internet is a very scary place, but I am a real person (here's a typo to proove it).
+Hello! I currently analyze data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). I am looking for positions in which I can grow and work on **data-informed research** or **data analysis**. The internet is a very scary place, but I am a real person (here's a typo to proove it).
 
-I graduated with a B.A. in Psychological Science and a minor in International Studies from the *University of California, Irvine*. I can talk for a long time about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). When I need a break from the world, I practice karate with friends, chat with strangers in Chinese, and laze around in parks.  
+I can talk for a long time about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). When I need a break from the world, I practice karate with friends, chat with strangers in Chinese, and laze around in parks.  
 
-I enjoy meeting new people, so feel free to contact me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) for a virtual chat!
+I enjoy meeting new people, so you are welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) to set up a chat.
 
 ---
 
