@@ -3,7 +3,7 @@ Hello! I currently analyze data @ [Mental Health Association of San Francisco](h
 
 I can talk for a long time about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). When I need a break from the world, I practice karate with friends, chat with strangers in Chinese, and laze around in parks.  
 
-I enjoy meeting new people, so you are welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com) to set up a chat.
+I enjoy meeting new people, so you are welcome to email me at [rebeccatruong7@gmail.com](mailto:rebeccatruong7@gmail.com).
 
 ---
 
