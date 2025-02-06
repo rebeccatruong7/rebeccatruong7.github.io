@@ -42,5 +42,3 @@ I **_visualized_** the prices of AirBnBs in Seattle in relation to a variety of 
 ## SQL Query
 ### [Nashville Housing](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql) 
 Using SQL, I **_queried_** and **_cleaned_** a dataset containing information on the sale date, sale price, land value, and number of beds and baths for housing in Nashville, Tennessee.
-
-<img src="assets/img/puppies.png">
