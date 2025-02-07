@@ -38,7 +38,7 @@ During my brief time here, I assisted the Court in building and migrating to a n
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
 While working in my initial role as a warmline counselor, I advanced the organization by looking at the under-utilized call system data to:
 -  inform staffing, hiring, and shift-scheduling decisions
-    - <li style="line-height: 1.2;"> resulted in a 72% increase in answer rate over 3-6 months! </li>
+    - resulted in a 72% increase in answer rate over 3-6 months!
 - update outdated performance metrics
     - <li style="line-height: 1.2;"> resulted in nuanced changes to internal performance metrics!
 - assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) </li>
