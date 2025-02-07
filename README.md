@@ -11,15 +11,15 @@ and learning more!
 
 ---
 
-## Croissant Pricing & Wealth Distribution in San Francisco
+## [Croissant Pricing & Wealth Distribution in San Francisco](https://youtu.be/zLRElMrBnSA)
 [![Croissants in San Francisco](assets/img/sfcroissants.png)](https://youtu.be/zLRElMrBnSA)
-A fun investigative project exploring the relationship between item pricing, for croissants, in this case, and neighborhood wealth in San Francisco.
+A fun video essay investigating the relationship between item pricing, for croissants, in this case, and neighborhood wealth in San Francisco.
 
 Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)!   
 Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).
 
 
-## Hong Kong Air Travel Amongsts Political Turmoil   
+## [Hong Kong Air Travel Amongsts Political Turmoil](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)   
 [![Government Policies Have Dimmed the Pearl of the East](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
 A data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.  
 
