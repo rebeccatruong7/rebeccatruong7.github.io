@@ -40,8 +40,8 @@ While working in my initial role as a warmline counselor, I advanced the organiz
 -  inform staffing, hiring, and shift-scheduling decisions
     - resulted in a 72% increase in answer rate over 3-6 months!
 - update outdated performance metrics
-    - <li style="line-height: 1.2;"> resulted in nuanced changes to internal performance metrics!
-- assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) </li>
+    - resulted in nuanced changes to internal performance metrics!
+- assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) 
     - quantified the success of an advertising push in call counts for the first time!
 - describe warmline performance in concrete terms
     - the concrete metrics assisted in securing increased funding to increase staff count by 2X
