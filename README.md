@@ -23,7 +23,7 @@ Find my code and final datasets on [github](https://github.com/rebeccatruong7/Da
 [![Government Policies Have Dimmed the Pearl of the East](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
 A data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.  
 
-> "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
+>> "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
 A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
 
 Find the article on [medium](https://medium.com/@rebecca.truong)!  
@@ -41,13 +41,13 @@ During my brief time here, I assisted the Court in building and migrating to a n
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
 While working in my initial role as a warmline counselor, I advanced the organization by looking at the under-utilized call system data to:
 - inform staffing, hiring, and shift-scheduling decisions
-  - resulted in a 72% increase in answer rate over 3-6 months!
+    - resulted in a 72% increase in answer rate over 3-6 months!
 - update outdated performance metrics
-  - resulted in nuanced changes to internal performance metrics!
+    - resulted in nuanced changes to internal performance metrics!
 - assess the impact of new programs on the warmline  ( In other words, was the goal achieved? )
-  - quantified the success of an advertising push in call counts for the first time!
+    - quantified the success of an advertising push in call counts for the first time!
 - describe warmline performance in concrete terms
-  - the concrete metrics assisted in securing increased funding to increase staff count by 2X
+    - the concrete metrics assisted in securing increased funding to increase staff count by 2X
 
 
 # About Me
