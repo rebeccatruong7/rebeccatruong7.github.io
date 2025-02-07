@@ -5,12 +5,7 @@
 | *Python* | *Tableau* | *SQL* | *Microsoft Excel* |
 | *R* | *Power BI* | *STATA* | *html & css* |
 
-
-<br>
-
 and learning more! 
-
-<br>
 
 # Passion Projects
 
@@ -24,9 +19,6 @@ Interact with the dashboards [here](https://public.tableau.com/views/sf_croissan
 Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).
 
 
-<br>
-<br>
-
 [![Government Policies Have Dimmed the Pearl of the East](assets/img/hkthumbnail_small.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
 
 ## Hong Kong Air Travel Amongsts Political Turmoil   
@@ -38,15 +30,12 @@ A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
 Find the article on [medium](https://medium.com/@rebecca.truong)!  
 Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 
-<br>
 
 # Work Experience
 
 **Superior Court of California, County of Alameda** | Dec 2023 - Mar 2024  
 During my brief time here, I assisted the Court in building and migrating to a new database by validating data across four ecosystems and working closely with the IT deparment and the vendor in charge of creating the database. 
 - It's difficult to quantify the impact of this work because the changes will be seen over the next 10 years. The hope is that the new database in conjunction with other org initiatives would modernize the Court for the betterment of the public. 
-
-<br>
 
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
 While working in my initial role as a warmline counselor, I advanced the organization through looking at the under-utilized call system data to:
