@@ -1,5 +1,5 @@
 # About Me
-Hello! I am looking for positions in which I can grow and work on **data-informed research** or **data analysis**. The internet is a very scary place, but I am a real person (here's a typo to proove it).
+Hello! I previously analyzed data @ [Mental Health Association of San Francisco](https://www.mentalhealthsf.org/). At this moment, I am looking for positions in which I can grow and work on **data-informed research** or **data analysis**. The internet is a very scary place, but I am a real person (here's a typo to proove it).
 
 I can talk for a long time about [accessible cities](https://www.youtube.com/c/NotJustBikes), [social mobility](https://opportunityinsights.org/), and [gender equality](https://youtu.be/GuWr-v3TOO8?si=RD4CB7WyoVOd1f4O). When I need a break from the world, I practice karate with friends, chat with strangers in Chinese, and laze around in parks.  
 
