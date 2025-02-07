@@ -16,15 +16,37 @@
     <![endif]
     {% include head-custom.html %}
   <style>
-    
-    .social-icon{
+    /* Make the wrapper wider */
+    .wrapper {
+      max-width: 90%; /* Increased from fixed width */
+      width: 100%; /* Ensure full screen usage */
+      margin: auto; /* Centering */
+      padding: 0 20px; /* Add some padding to avoid content touching the edges */
+    }
+
+    /* Ensure section takes up full width */
+    section {
+      width: 100%;
+    }
+
+    /* Ensure footer spans full width */
+    footer {
+      width: 100%;
+      text-align: center;
+    }
+
+    /* Adjust body margins */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Keep existing styles */
+    .social-icon {
       text-decoration: none;
     }
-/*     ion-icon {
-  color: blue; */
-/* } */
-    
   </style>
+
   </head>
   <body>
     <div class="wrapper">
