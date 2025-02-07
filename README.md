@@ -13,11 +13,10 @@ and learning more!
 
 ---
 
-[<video src="assets/sf%20croissants%20final%20video.mp4" controls title="Croissant Pricing & Wealth Distribution in San Francisco"></video>](https://youtu.be/zLRElMrBnSA)
+[![Croissants in San Francisco](assets/img/sfcroissants.png)](https://youtu.be/zLRElMrBnSA)
 
 ## Croissant Pricing & Wealth Distribution in San Francisco
 A fun investigative project exploring the relationship between item pricing, for croissants, in this case, and neighborhood wealth in San Francisco.
-
 
 Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)!   
 Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).
