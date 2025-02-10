@@ -51,11 +51,15 @@ While working in my initial role as a warmline counselor, I advanced the organiz
 ---
 
 Hi, I am Rebecca! I am a junior data analyst with experience in non-profits and government. In spring 2021, I graduated from UC Irvine with a B.A. in Psychology and a minor in International Studies.  
+   
 🌍 My formal education is reflective of my curiosity about people, communities, and how many individuals can organize together to accomplish one goal.  
 📚 Data analysis, research, and storytelling became the method to investigate those curiosities when I realized how poor decision-making often arises due to a lack of accurate and complete information.  
 
 ❓ **CAREER GAP EXPLAINED** ❓  
-You might be wondering why I have a gap in my resume following my job at the Superior Court of Alameda. I voluntarily left that position to become a full-time caregiver for a loved one who is doing much better now. In the time since I have taken two part-time jobs at a local bakery and cross-guarding for elementary schools. I've always wanted to try both! I have also been polishing my skills through portfolio projects, and courses, and thoughtfully consuming relevant content.  
+You might be wondering why I have a gap in my resume following my job at the Superior Court of Alameda.  
+🧓 I voluntarily left that position to become a full-time caregiver for a loved one who is doing much better now.  
+🥖 In the time since I have taken two part-time jobs at a local bakery and cross-guarding for elementary schools. I've always wanted to try both!  
+✨ I have also been polishing my skills through portfolio projects, and courses, and thoughtfully consuming relevant content.  
 
 🐇 Now I am ready to hop back into the work sphere!
 
