@@ -36,7 +36,7 @@ Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 ---
 
 **Superior Court of California, County of Alameda** | Dec 2023 - Mar 2024  
-During my brief time here, I assisted the Court in building and migrating to a new database by
+During my brief time here, I assisted the Court in building and migrating to a new database.  
 ➡️ Over the next 10 years, this new database, in conjunction with other organizational initiatives, will modernize the organization, allowing staff to produce higher quality work
 
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
@@ -60,9 +60,10 @@ You might be wondering why I have a gap in my resume following my job at the Sup
 
 🐇 Now I am ready to hop back into the work sphere!
 
-
+🌱 **HOBBIES** 🌱  
 ☀️ In my free time, I like being outside in nature, around people, and preferably under a bright blue sky. I also spend a lot of time training at my karate dojo. If I am feeling like a homebody, I will bake delicious sweets that will surely increase your life satisfaction, but not longevity.  
 
+👋 **PLEASE REACH OUT** 👋  
 📧 Happy to chat about my projects and work experience with you! Feel free to email me at: 
 
     rebeccatruong7@gmail.com
