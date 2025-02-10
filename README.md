@@ -1,10 +1,10 @@
 # Skills
 
 ---
-| | | | |
-|:---:|:---:|:---:|:---:|
-|Python| Tableau| SQL| Microsoft Excel|
-|R| Power BI| STATA| html & css|
+| | | | |  
+|:---:|:---:|:---:|:---:|  
+|Python| Tableau| SQL| Microsoft Excel|  
+|R| Power BI| STATA| html & css|  
 
 and learning more! 
 
