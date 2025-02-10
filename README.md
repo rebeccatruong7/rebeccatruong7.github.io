@@ -21,7 +21,7 @@ Find my code and final datasets on [github](https://github.com/rebeccatruong7/Da
 
 ## [Hong Kong Air Travel Amongsts Political Turmoil](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)   
 [![Government Policies Have Dimmed the Pearl of the East](assets/img/hkthumbnail_small_borders.png)](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)
-A data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.  
+A data journalism project investigating the tourism and air traffic dip in Hong Kong amidst growing encroachment from the Communist Party of China.  
 
 > "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
 A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
