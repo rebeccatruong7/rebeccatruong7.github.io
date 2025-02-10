@@ -1,7 +1,5 @@
 # Skills
 
----
-
 | | | | |  
 |:---:|:---:|:---:|:---:|  
 |Python| Tableau| SQL| Microsoft Excel|  
