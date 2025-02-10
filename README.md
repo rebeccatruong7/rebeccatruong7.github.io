@@ -35,13 +35,13 @@ Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 During my brief time here, I assisted the Court in building and migrating to a new database by:  
 ⭐ validating data across four ecosystems  
 ⭐ working closely with the IT department and the vendor in charge of creating the database  
-➡️ It's difficult to quantify the impact of this work because the changes will be seen over the next 10 years. The hope is that the new database, in conjunction with other organizational initiatives, will modernize the Court for the betterment of the public. 
+➡️ Over the next 10 years, this new database, in conjunction with other organizational initiatives, will modernize the organization, allowing staff to produce higher quality work
 
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
 While working in my initial role as a warmline counselor, I advanced the organization by looking at the under-utilized call system data to:  
 ⭐ inform staffing, hiring, and shift-scheduling decisions ➡️ resulted in a 72% increase in answer rate over 3-6 months!  
 ⭐ update outdated performance metrics ➡️ resulted in nuanced changes to internal performance metrics!  
-⭐ assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) ➡️ quantified the success of an advertising push in call counts for the first time!  
+⭐ assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) ➡️ quantifed the success of an advertising push in call counts for the first time!  
 ⭐ describe warmline performance in concrete terms ➡️ the concrete metrics assisted in securing increased funding to increase staff count by 2X
 
 
