@@ -1,8 +1,11 @@
 # Skills
 
 ---
-
-### Python, Tableau, SQL, Microsoft Excel, R, Power BI, STATA, html & css, and learning more! 
+| | | | |
+|:---:|:---:|:---:|:---:|
+|Python| Tableau| SQL| Microsoft Excel|
+|R| Power BI| STATA| html & css|
+and learning more! 
 
 # Passion Projects
 
@@ -32,16 +35,14 @@ Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 ---
 
 **Superior Court of California, County of Alameda** | Dec 2023 - Mar 2024  
-During my brief time here, I assisted the Court in building and migrating to a new database by:  
-⭐ validating data across four ecosystems  
-⭐ working closely with the IT department and the vendor in charge of creating the database  
+During my brief time here, I assisted the Court in building and migrating to a new database by
 ➡️ Over the next 10 years, this new database, in conjunction with other organizational initiatives, will modernize the organization, allowing staff to produce higher quality work
 
 **Mental Health Association of San Francisco** | Sep 2021 - Nov 2023   
 While working in my initial role as a warmline counselor, I advanced the organization by looking at the under-utilized call system data to:  
 ⭐ inform staffing, hiring, and shift-scheduling decisions ➡️ resulted in a 72% increase in answer rate over 3-6 months!  
 ⭐ update outdated performance metrics ➡️ resulted in nuanced changes to internal performance metrics!  
-⭐ assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) ➡️ quantifed the success of an advertising push in call counts for the first time!  
+⭐ assess the impact of new programs on the warmline  ( In other words, was the goal achieved? ) ➡️ quantified the success of an advertising push in call counts for the first time!  
 ⭐ describe warmline performance in concrete terms ➡️ the concrete metrics assisted in securing increased funding to increase staff count by 2X
 
 
@@ -53,9 +54,11 @@ Hi, I am Rebecca! I am a junior data analyst with experience in non-profits and 
 🌍 My formal education is reflective of my curiosity about people, communities, and how many individuals can organize together to accomplish one goal.  
 📚 Data analysis, research, and storytelling became the method to investigate those curiosities when I realized how poor decision-making often arises due to a lack of accurate and complete information.  
 
-❓ You might be wondering why I have a gap in my resume following my job at the Superior Court of Alameda. I voluntarily left that position to become a full-time caregiver for a loved one who is doing much better now. In the time since I have taken two part-time jobs at a local bakery and cross-guarding for elementary schools. I've always wanted to try both! I have also been polishing my skills through portfolio projects, and courses, and thoughtfully consuming relevant content.  
+❓ **CAREER GAP EXPLAINED** ❓  
+You might be wondering why I have a gap in my resume following my job at the Superior Court of Alameda. I voluntarily left that position to become a full-time caregiver for a loved one who is doing much better now. In the time since I have taken two part-time jobs at a local bakery and cross-guarding for elementary schools. I've always wanted to try both! I have also been polishing my skills through portfolio projects, and courses, and thoughtfully consuming relevant content.  
 
 🐇 Now I am ready to hop back into the work sphere!
+
 
 ☀️ In my free time, I like being outside in nature, around people, and preferably under a bright blue sky. I also spend a lot of time training at my karate dojo. If I am feeling like a homebody, I will bake delicious sweets that will surely increase your life satisfaction, but not longevity.  
 
