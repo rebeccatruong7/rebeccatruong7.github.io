@@ -16,8 +16,8 @@ and learning more!
 [![Croissants in San Francisco](assets/img/sfcroissant_thumbnail_red.png)](https://youtu.be/wX7181LkLNU)
 A fun video essay investigating the relationship between item pricing, for croissants, in this case, and neighborhood wealth in San Francisco.
 
-Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)!   
-Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).
+**Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)!   
+Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).**
 
 
 ## [Hong Kong Air Travel Amongsts Political Turmoil](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536)   
@@ -27,8 +27,8 @@ A data journalism project investigating the tourism and air travel fall-out for 
 > "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
 A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
 
-Find the article on [medium](https://medium.com/@rebecca.truong)!  
-Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
+**Find the article on [medium](https://medium.com/@rebecca.truong)!  
+Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).**
 
 
 # Work Experience
