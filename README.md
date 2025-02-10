@@ -67,6 +67,7 @@ You might be wondering why I have a gap in my resume following my job at the Sup
 ☀️ In my free time, I like being outside in nature, around people, and preferably under a bright blue sky. I also spend a lot of time training at my karate dojo. If I am feeling like a homebody, I will bake delicious sweets that will surely increase your life satisfaction, but not longevity.  
 
 👋 **PLEASE REACH OUT** 👋  
-📧 Happy to chat about my projects and work experience with you! Feel free to email me at: 
+📧 Happy to chat about my projects and work experience with you!  
+Feel free to email me at: 
 
     rebeccatruong7@gmail.com
