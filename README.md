@@ -5,6 +5,7 @@
 |:---:|:---:|:---:|:---:|
 |Python| Tableau| SQL| Microsoft Excel|
 |R| Power BI| STATA| html & css|
+
 and learning more! 
 
 # Passion Projects
