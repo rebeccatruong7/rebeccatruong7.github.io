@@ -13,7 +13,7 @@ and learning more!
 
 ---
 
-## [Croissant Pricing & Wealth Distribution in San Francisco](https://youtu.be/zLRElMrBnSA)
+## [Croissant Pricing & Wealth Distribution in San Francisco](https://youtu.be/wX7181LkLNU)
 [![Croissants in San Francisco](assets/img/sfcroissant_thumbnail_red.png)](https://youtu.be/wX7181LkLNU)
 A fun video essay investigating the relationship between item pricing, for croissants, in this case, and neighborhood wealth in San Francisco.
 
