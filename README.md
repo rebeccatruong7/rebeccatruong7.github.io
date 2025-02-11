@@ -42,7 +42,7 @@ During my brief time here, I assisted in the building of a new database and the 
 I began working here as a counselor for the [California Peer-Run Warm Line](https://www.mentalhealthsf.org/warm-line/) and slowly took on more projects outside my original role. As a data analyst, I advanced the organization by looking at the under-utilized call system data to:  
 ⭐ inform staffing, hiring, and shift-scheduling decisions  ➡️ resulted in a **72% improvement** in answer rates over 3-6 months!   
 ⭐ describe warmline performance in concrete terms ➡️ assisted in **securing funding to increase headcount by 2X**  
-⭐ assess the impact of new programs/policies on the warm line ➡️ quantified the success of marketing campaigns in call traffic for **the first time**
+⭐ assess the impact of new programs/policies on the warm line ➡️ quantified the success of marketing campaigns in call traffic for **the first time**  
 ⭐ update outdated performance metrics ➡️ resulted in **changes to internal performance metrics**  
 
 
