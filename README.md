@@ -39,7 +39,7 @@ Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).**
 During my brief time here, I assisted in the building of a new database and the migration of data from the old database to the new one.     
 ➡️ Over the next 10 years, this new database will be pivotal in maintaining accurate and current court records. This project was an **investment for the future** so its impact remains to be seen.  
 
-**MENTAL HEALTH ASSOCIATION OF SAN FRANCISCO** 
+**MENTAL HEALTH ASSOCIATION OF SAN FRANCISCO**  
 *Sep 2021 - Nov 2023*   
 I began working here as a counselor for the [California Peer-Run Warm Line](https://www.mentalhealthsf.org/warm-line/) and slowly took on more projects outside my original role. As a data analyst, I advanced the organization by looking at the under-utilized call system data to:  
 ⭐ inform staffing, hiring, and shift-scheduling decisions  ➡️ resulted in a **72% improvement** in answer rates over 3-6 months!   
