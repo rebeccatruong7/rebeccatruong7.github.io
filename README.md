@@ -5,7 +5,7 @@
 |Python| Tableau| SQL| Microsoft Excel|  
 |R| Power BI| STATA| html & css|  
 
-and learning more! 
+and learning more.  
 
 # Passion Projects
 
@@ -15,7 +15,7 @@ and learning more!
 [![Croissants in San Francisco](assets/img/sfcroissant_thumbnail_red.png)](https://youtu.be/wX7181LkLNU)
 A fun video essay investigating the relationship between item pricing of croissants and neighborhood wealth in San Francisco. (Last updated in February 2025).  
 
-Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)!   
+Interact with the dashboards [here](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).   
 Find my code and final datasets on [github](https://github.com/rebeccatruong7/Data-Projects).
 
 
@@ -26,7 +26,7 @@ A data journalism project investigating the dip in air travel in Hong Kong since
 > "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
 A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
 
-Read the article on [medium](https://medium.com/@rebecca.truong)!  
+Read the article on [medium](https://medium.com/@rebecca.truong).    
 Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 
 
@@ -42,7 +42,7 @@ During my brief time here, I assisted in building a new database and migrating d
 **MENTAL HEALTH ASSOCIATION OF SAN FRANCISCO**  
 *Sep 2021 - Nov 2023*   
 I began working here as a counselor for the [California Peer-Run Warm Line](https://www.mentalhealthsf.org/warm-line/) and slowly took on more projects outside my original role. As a data analyst, I advanced the organization by looking at the under-utilized call system data to:  
-⭐ inform staffing, hiring, and shift-scheduling decisions  ➡️ resulted in a 72% improvement in answer rates over 3-6 months!   
+⭐ inform staffing, hiring, and shift-scheduling decisions  ➡️ resulted in a 72% improvement in answer rates over 3-6 months     
 ⭐ describe warmline performance in concrete terms ➡️ assisted in securing funding to increase headcount by 2X  
 ⭐ assess the impact of new programs/policies on the warm line ➡️ quantified the success of marketing campaigns in call count numbers for the first time  
 ⭐ update outdated performance metrics ➡️ resulted in changes to internal performance metrics  
@@ -56,6 +56,7 @@ Hi, I am Rebecca! I am a junior data analyst with experience in non-profits and 
    
 🌍 My formal education reflects my curiosity about people, communities, and the power of individuals to organize together to accomplish amazing things.    
 📚 Data analysis is a tool through which I tell those human stories because good decision-making can only happen with accurate and complete information.  
+📍 Currently residing in the San Francisco Bay Area but open to relocation within the United States.    
   
 
 ❓ **CAREER GAP EXPLAINED** ❓  
