@@ -26,7 +26,7 @@ A data journalism project investigating the dip in air travel in Hong Kong since
 > "Hong Kong finally re-opened its borders to foreign travelers after two-and-a-half years of isolation. But the people aren’t returning so fast.  
 A dark shadow has been cast on the Pearl of the Orient (東方之珠)."
 
-Read the article on [medium](https://medium.com/@rebecca.truong).    
+Read the article on [medium](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536).    
 Find my code on [github](https://github.com/rebeccatruong7/Data-Projects).
 
 
